@@ -11,10 +11,6 @@ desenvolvidos no âmbito da formação de **Programação Avançada em Python �
 - Exercício 4 – Uso de *args e **kwargs
 - Exercício 5 – Criação de um novo decorator (`@maiusculas`)
 
-## 📌 Diagrama explicativo
-
-![Decorators em Python](img/decorators.png)
-
 
 ## 🎯 Objetivo
 
@@ -27,6 +23,11 @@ Consolidar os conceitos fundamentais de:
 
 ## 🛠️ Tecnologias
 - Python 3
+
+## 📌 Diagrama explicativo
+
+![Decorators em Python](./img/corators.png)
+
 
 ## 👩‍💻 Autora
 Palmira Solochi  
