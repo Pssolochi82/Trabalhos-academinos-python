@@ -1,16 +1,27 @@
 # Exercícios Práticos sobre Módulos em Python (IEFP)
 
-Repositório com exercícios de Python sobre criação e utilização de módulos.
+Repositório com exercícios desenvolvidos no âmbito da formação do IEFP, com o objetivo de praticar a criação e utilização de módulos em Python.
 
-## Estrutura
-- `exercicio1/` módulo personalizado de operações matemáticas
-- `exercicio2/` uso do módulo `math`
-- `exercicio3/` uso do módulo `random`
-- `exercicio4/` módulo personalizado de saudações
-- `exercicio5/` combinação de `math`, `random` e `datetime`
+---
 
-## Como executar
-Exemplos:
+## 📁 Estrutura do Repositório
+
+- **exercicio1/**
+  - Módulo personalizado de operações matemáticas  
+- **exercicio2/**
+  - Utilização do módulo built-in `math`  
+- **exercicio3/**
+  - Utilização do módulo built-in `random`  
+- **exercicio4/**
+  - Criação e utilização de um módulo personalizado de saudações  
+- **exercicio5/**
+  - Utilização combinada dos módulos `math`, `random` e `datetime`
+
+---
+
+## ▶️ Como Executar os Exercícios
+
+Certifique-se de que tem o Python instalado e execute os comandos abaixo a partir da pasta raiz do repositório:
 
 ```bash
 python exercicio1/exercicio1.py
