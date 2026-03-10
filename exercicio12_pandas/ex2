@@ -1,0 +1,18 @@
+import pandas as pd
+
+# Ler o ficheiro Excel
+dados = pd.read_excel("ficheiro.xlsx")
+
+# Mostrar todos os dados
+print("=== TODOS OS DADOS ===")
+print(dados)
+
+# Mostrar uma coluna específica
+print("\n=== CAMPO ESPECÍFICO ===")
+print(dados["Nome"])
+
+# Guardar outra coluna numa lista
+lista_idades = dados["Idade"].tolist()
+
+print("\n=== LISTA DAS IDADES ===")
+print(lista_idades)
