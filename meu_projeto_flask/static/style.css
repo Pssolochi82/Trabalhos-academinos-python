@@ -1,0 +1,38 @@
+/* Define o estilo geral da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Caixa principal do conteúdo */
+.container {
+    width: 70%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+/* Subtítulos */
+h2 {
+    color: #333;
+}
+
+/* Texto */
+p {
+    line-height: 1.6;
+}
+
+/* Lista */
+ul {
+    line-height: 1.8;
+}
